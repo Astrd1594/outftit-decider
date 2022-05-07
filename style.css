@@ -1,0 +1,19 @@
+.alert-success{
+    width: 25% !important;
+}
+button{
+    width: 125px;
+    height: 55px;
+    font-size: 20px !important;
+    box-shadow: 5px 5px 10px rgb(64, 64, 64);
+}
+button:active{
+    box-shadow: 5px 5px 10px rgb(46, 46, 46) !important;
+}
+hr{
+    width: 75%;
+}
+#winter{
+    margin-left: 10px;
+    margin-right: 10px;
+}
